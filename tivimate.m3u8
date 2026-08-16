@@ -27,8 +27,8 @@ http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co@SD",NTN24 (576p)
 http://181.78.8.199:8000/play/a0a6/index.m3u8
 
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (576p)
-http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (720p)
+http://170.238.200.199/rcn-novelas/index.m3u8
 
 #EXTINF:-1 tvg-id="CitytvBogota.co@SD",Citytv Bogota (1080p)
 http://138.121.15.230:9002/CITY-TV/index.m3u8
